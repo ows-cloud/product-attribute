@@ -10,7 +10,7 @@
                     class="btn btn-primary"
                     type="object"
                     name="action_partner_product_price"
-                    string="Products"
+                    string="See product prices"
                 />
             </field>
         </field>
